@@ -6,7 +6,7 @@ Caso deseje ver como é esse projeto, recomendo acessar o link</p>
 abaixo para ter acesso.
 </h4>
 <h1>👇🏽</h1>
-<a href="https://thamiresribeiros.github.io/coracao/">Modo Escuro</a>
+<a href="https://thamiresribeiros.github.io/darkMode/">Modo Escuro</a>
 
 ##
 
@@ -18,4 +18,4 @@ If you want to see what this project looks like, I recommend accessing the link<
 below to gain access.
 </h4>
 <h1>👇🏽</h1>
-<a href="https://thamiresribeiros.github.io/coracao/">Dark Mode</a>
+<a href="https://thamiresribeiros.github.io/darkMode/">Dark Mode</a>

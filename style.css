@@ -1,11 +1,11 @@
 :root {
-    --background: #f2eee3;
+    --background: #22521;
     --check: #000;
     --ball: #f2eee3;
   }
   
   .dark {
-    --background: #555;
+    --background: #000;
     --check: #f2eee3;
     --ball: #000;
   }
